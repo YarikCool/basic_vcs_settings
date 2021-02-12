@@ -1,0 +1,49 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "~/../css/"
+    }
+  ],
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "window.zoomLevel": -1,
+  "php.validate.executablePath": "",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.tokenColorCustomizations": null
+}
